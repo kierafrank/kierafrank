@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My name is Kiera Frank! I am a grade 12 student at All Saints and will be attending Carleton University next year for computer engineering. I hope to use the degree to get a job in software development. 
+## My name is Kiera Frank! I am a grade 12 student at All Saints and will be attending Carleton University next year for computer systems engineering. I hope to use the degree to get a job in software development. 
 
 I am currently working on a Student Guide booklet for younger students to use when learning to code Raspberry Pis with the Unicornhat HD attachment. I am working with a partner to update an old booklet for python 2 to python 3 and add other challenges for the students to attempt.
 
