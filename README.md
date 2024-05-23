@@ -6,7 +6,7 @@ I am currently working on a Student Guide booklet for younger students to use wh
 
 Pronouns: she/her
 
-Fun fact: I have an obsession with deer. 
+Fun fact: My favourite animal is a deer.
 
 <!--
 **kierafrank/kierafrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
