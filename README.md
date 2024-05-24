@@ -4,9 +4,12 @@
 
 I am currently working on a Student Guide booklet for younger students to use when learning to code Raspberry Pis with the Unicornhat HD attachment. I am working with a partner to update an old booklet for python 2 to python 3 and add other challenges for the students to attempt.
 
+I have some basic programming experience in python, html, and javascript. I have also coded and created circuits for Arduino.
+
+Outside of school, I have a part time job as a cashier at Jonsson's Your Independant Grocer in Almonte. 
+
 Pronouns: she/her
 
-Fun fact: My favourite animal is a deer.
 
 <!--
 **kierafrank/kierafrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
